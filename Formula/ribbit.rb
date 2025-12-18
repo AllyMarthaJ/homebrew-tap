@@ -1,4 +1,4 @@
-class GitReabsorb < Formula
+class Ribbit < Formula
   desc "Vibed-up \"live\" demos"
   homepage "https://github.com/AllyMarthaJ/ribbit"
   url "https://github.com/AllyMarthaJ/ribbit/archive/refs/tags/0.1.0.tar.gz"
