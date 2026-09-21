@@ -1,8 +1,8 @@
 class Alofmt < Formula
   desc "Fast, deterministic, configurable Ruby formatter"
   homepage "https://github.com/StileEducation/alofmt"
-  url "https://github.com/StileEducation/alofmt/archive/refs/tags/0.1.0.tar.gz"
-  sha256 "3307c60a5619f54df3479efdcbd47b277d8f352ef69dfae8ac71234b8e573a37"
+  url "https://github.com/StileEducation/alofmt/archive/refs/tags/0.1.1.tar.gz"
+  sha256 "8b47b9b43215973de719cc52c33c0d576c925a672a85521f851942aa3aaa36dc"
   license "MIT"
 
   depends_on "rust" => :build
